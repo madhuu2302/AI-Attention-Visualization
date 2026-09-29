@@ -4,6 +4,8 @@ An educational AI application that demonstrates how **OCR, sentence embeddings, 
 
 The application is built using **Python and Streamlit**. Users can upload an image containing text, extract the text using Tesseract OCR, generate word embeddings using Sentence Transformers, and visualize attention scores for the extracted words.
 
+##App : http://localhost:8501/
+
 ## Features
 
 * Upload JPG, JPEG, or PNG study-note images
