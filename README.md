@@ -218,6 +218,6 @@ This project helps demonstrate:
 * AI visualization
 * Streamlit application development
 
-## License
+## AUTHOR
 
-This project is created for educational and learning purposes.
+Madhumitha U
